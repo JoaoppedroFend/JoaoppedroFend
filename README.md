@@ -1,14 +1,27 @@
 ### Olá, Mundo!
-Me chamo João Pedro, atualmente estou estudando front end pelo projeto "Ford Enter", uma parceria entre a Ford Motor Company e SENAI SP.
-Confesso que Programação é uma novidade para mim, estou adentrando este mundo por ter desperdado um intresse durante minha graduação.
-Sou estudante de Engenharia Mecânica na FEI, carega uma grande paixão por este mundo. Além disso, sou formado pelo SENAI SP como Técnico em Automobilística.
-
-<img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  <img height ="100" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/6e2658b4-2c21-4c60-ac76-77feb71866ac" >  <img height ="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/8eba311c-8c82-451e-a17f-4412fcf6fee3" >
+Engenheiro Mecânico em formação na FEI e Técnico em Automobilística pelo SENAI, com expertise em motores de combustão interna. Iniciando minha jornada no desenvolvimento front-end através do projeto 'Ford Enter', uma parceria entre a Ford e o SENAI SP. Busco unir minha paixão por engenharia e tecnologia na criação de experiências digitais envolventes.
 
 
+<img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />   <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />  <img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  <img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoppedroFend)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoppedroFend&show_icons=true&theme=dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+
+
+
+
+
+
+
+
+
+
+
+
+<img height ="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/8eba311c-8c82-451e-a17f-4412fcf6fee3" >   <img height ="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/6e2658b4-2c21-4c60-ac76-77feb71866ac" >
+
           
 
 <!--
