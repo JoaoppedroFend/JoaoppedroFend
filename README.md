@@ -4,6 +4,9 @@ Confesso que Programação é uma novidade para mim, estou adentrando este mundo
 Sou estudante de Engenharia Mecânica na FEI, carega uma grande paixão por este mundo. Além disso, sou formado pelo SENAI SP como Técnico em Automobilística.
 
 
+         
+          
+
 <!--
 **JoaoppedroFend/JoaoppedroFend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
