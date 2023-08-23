@@ -1,5 +1,5 @@
 ### Olá, Mundo!
-Me chamo João Pedro, atualmente estou estudando front end pelo projeto Ford <Enter>, uma parceria entre a Ford Motor Company e SENAI SP.
+Me chamo João Pedro, atualmente estou estudando front end pelo projeto "Ford Enter", uma parceria entre a Ford Motor Company e SENAI SP.
 Confesso que Programação é uma novidade para mim, estou adentrando este mundo por ter desperdado um intresse durante minha graduação.
 Sou estudante de Engenharia Mecânica na FEI, carega uma grande paixão por este mundo. Além disso, sou formado pelo SENAI SP como Técnico em Automobilística.
 
