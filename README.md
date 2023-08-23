@@ -3,6 +3,8 @@ Me chamo João Pedro, atualmente estou estudando front end pelo projeto "Ford En
 Confesso que Programação é uma novidade para mim, estou adentrando este mundo por ter desperdado um intresse durante minha graduação.
 Sou estudante de Engenharia Mecânica na FEI, carega uma grande paixão por este mundo. Além disso, sou formado pelo SENAI SP como Técnico em Automobilística.
 
+<img height ="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img height ="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
 
          
           
