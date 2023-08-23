@@ -3,7 +3,7 @@ Me chamo João Pedro, atualmente estou estudando front end pelo projeto "Ford En
 Confesso que Programação é uma novidade para mim, estou adentrando este mundo por ter desperdado um intresse durante minha graduação.
 Sou estudante de Engenharia Mecânica na FEI, carega uma grande paixão por este mundo. Além disso, sou formado pelo SENAI SP como Técnico em Automobilística.
 
-<img height ="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img height ="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  ![Captura de Tela (1) (1)](https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/6e2658b4-2c21-4c60-ac76-77feb71866ac)  ![Captura_de_Tela__3_-removebg-preview](https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/8eba311c-8c82-451e-a17f-4412fcf6fee3)
+<img height ="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img height ="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  ![Captura de Tela (1) (1)](https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/6e2658b4-2c21-4c60-ac76-77feb71866ac)  <img height ="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/8eba311c-8c82-451e-a17f-4412fcf6fee3" >
           
 
 <!--
