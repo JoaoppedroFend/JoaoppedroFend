@@ -4,6 +4,11 @@ Confesso que Programação é uma novidade para mim, estou adentrando este mundo
 Sou estudante de Engenharia Mecânica na FEI, carega uma grande paixão por este mundo. Além disso, sou formado pelo SENAI SP como Técnico em Automobilística.
 
 <img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img height ="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />  <img height ="100" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/6e2658b4-2c21-4c60-ac76-77feb71866ac" >  <img height ="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/8eba311c-8c82-451e-a17f-4412fcf6fee3" >
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoppedroFend)](https://github.com/anuraghazra/github-readme-stats)
           
 
 <!--
