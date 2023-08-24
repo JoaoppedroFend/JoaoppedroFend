@@ -1,9 +1,7 @@
 ### Olá, Mundo!
 Engenheiro Mecânico em formação na FEI e Técnico em Automobilística pelo SENAI, com expertise em motores de combustão interna. Iniciando minha jornada no desenvolvimento front-end através do projeto 'Ford Enter', uma parceria entre a Ford e o SENAI SP. Busco unir minha paixão por engenharia e tecnologia na criação de experiências digitais envolventes.
 <br/>
-<br/>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoppedroFend&show_icons=true&theme=dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoppedroFend&layout=compact&theme=dark)
-<br/>
+<img height="100" src="https://github-readme-stats.vercel.app/api?username=JoaoppedroFend&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  <img align="right" height="100" src="https://github-readme-stats.vercel.app/api/top-lang/?username=JoaoppedroFend&layout=compact&langs_count=16&theme=algonia"/>
 <br/>
 <br/>
 <img height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" > <img height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />   <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />  <img height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  <img height ="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
