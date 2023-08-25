@@ -17,7 +17,8 @@ Engenheiro Mecânico em formação na FEI e Técnico em Automobilística pelo SE
 <br/>
 <br/>
 
-<img align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/ed57e1d2-d5ab-4a68-a52b-d95bcc50b902"> <img align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/0bc7f528-a776-48b9-bae1-bfa9a7bd113f">
+<img align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/ed57e1d2-d5ab-4a68-a52b-d95bcc50b902"> <img align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/0bc7f528-a776-48b9-bae1-bfa9a7bd113f"> <img  align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/0f5df5d6-5e00-4f2c-8822-67343b16b878">
+
           
 
 
