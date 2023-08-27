@@ -5,9 +5,8 @@
 <br/>
 Hi there, I'm João Pedro, a Mechanical Engineering student at FEI | Specialization in Internal Combustion Engines | Currently delving into Front-End Development in the project called "Ford Enter, in partnership with Ford Motor Company and SENAI SP. Feel free to connect with me!
 <br/>
-<br/>
 <div align="center">
-          Follow me
+          <h2>Follow me:</h2>
           <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-6b5aab271/">
                     <br/>
                     <br/>
