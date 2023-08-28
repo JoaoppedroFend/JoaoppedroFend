@@ -44,7 +44,7 @@ Hi there, I'm João Pedro, a Mechanical Engineering student at FEI | Specializat
 <br/>
 
 <hr>
-<img align="left" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/ed57e1d2-d5ab-4a68-a52b-d95bcc50b902"> <img align="left" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/0bc7f528-a776-48b9-bae1-bfa9a7bd113f"> <img  align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/0f5df5d6-5e00-4f2c-8822-67343b16b878"> <img align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/78b8d9d2-125a-40ac-855f-8dd0940512a5"> <img align="right" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/c1a336e0-2bc0-4746-b81c-b2a789f5870c"/>
+<img align="left" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/ed57e1d2-d5ab-4a68-a52b-d95bcc50b902"> <img align="left" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/0bc7f528-a776-48b9-bae1-bfa9a7bd113f"> <img  align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/0f5df5d6-5e00-4f2c-8822-67343b16b878"> <img align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/78b8d9d2-125a-40ac-855f-8dd0940512a5"> <img align="center" height="150" src="https://github.com/JoaoppedroFend/JoaoppedroFend/assets/142447316/c1a336e0-2bc0-4746-b81c-b2a789f5870c"/>
 <br/>
 <br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=footer"/>
