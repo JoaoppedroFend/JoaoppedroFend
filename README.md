@@ -3,7 +3,7 @@
 <br/>
 <br/>
 <br/>
-Hi there, I'm João Pedro, a Mechanical Engineering student at FEI | Specialization in Internal Combustion Engines | Currently delving into Front-End Development in the project called "Ford Enter, in partnership with Ford Motor Company and SENAI SP. Feel free to connect with me!
+Hi there, I'm João Pedro, a Mechanical Engineering student at FEI | Specialization in Internal Combustion Engines | Currently delving into Front-End Development in the project called "Ford Enter", in partnership with Ford Motor Company and SENAI SP. Feel free to connect with me!
 <br/>
 <div align="center">
           <h2>Follow me:</h2>
